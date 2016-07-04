@@ -4,7 +4,7 @@
         <description><![CDATA[Unveiled Moments]]></description>
         <link>https://thegrid.ai/unveiled-moments/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 18:42:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 18:43:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unveiled-moments/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Unveiled Moments]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/unveiled-moments/unveiled-moments/index.html</link>
             <guid isPermaLink="false">072558fa-03d8-475d-8ddd-9c9d7fb1f799</guid>
             <pubDate>Mon, 04 Jul 2016 18:42:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Capturing moments is second only to creating them.]]></title>
+            <description><![CDATA[<article><h1>Capturing moments is second only to creating them.</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/566aeeab-ec8f-406d-b190-7927344f435b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/unveiled-moments/capturing-moments-is-second-only-to-creating-them/index.html</link>
+            <guid isPermaLink="false">a7940ddf-dd84-4e17-9eec-7b3154e3d1ac</guid>
+            <pubDate>Mon, 04 Jul 2016 18:43:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/unveiled-moments/pricing/index.html</link>
             <guid isPermaLink="false">b7a5f284-2374-400e-8497-daeb499e6014</guid>
             <pubDate>Mon, 04 Jul 2016 17:47:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58b81fbe-79dd-426a-a1d9-5773165f9b37.jpg">]]></description>
-            <link>https://thegrid.ai/unveiled-moments/capturing-moments-is-second-only-to-creating-them/index.html</link>
-            <guid isPermaLink="false">a7940ddf-dd84-4e17-9eec-7b3154e3d1ac</guid>
-            <pubDate>Mon, 04 Jul 2016 17:36:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
