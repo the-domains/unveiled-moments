@@ -13,13 +13,13 @@ description: >-
   incredibly beautiful, frighteningly real and hysterically awkward images of
   your wedding. We want you to be blown away by everything that we deliver to
   you. Our goal is for you to see yourself the way we see you, simply beautiful.
-datePublished: '2016-07-04T18:42:02.220Z'
-dateModified: '2016-07-04T18:41:10.125Z'
+datePublished: '2016-07-04T18:45:08.742Z'
+dateModified: '2016-07-04T18:42:10.931Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-04-unveiled-moments.md
 authors: []
 publisher: null
-sourcePath: _posts/2016-07-04-unveiled-moments.md
 starred: true
 url: unveiled-moments/index.html
 _type: Article
