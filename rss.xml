@@ -4,7 +4,7 @@
         <description><![CDATA[Unveiled Moments]]></description>
         <link>https://thegrid.ai/unveiled-moments/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jul 2016 18:45:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2016 18:46:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unveiled-moments/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Unveiled Moments]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/unveiled-moments/unveiled-moments/index.html</link>
             <guid isPermaLink="false">072558fa-03d8-475d-8ddd-9c9d7fb1f799</guid>
             <pubDate>Mon, 04 Jul 2016 18:45:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pricing]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e54493e-5391-48b1-b0f3-8108c7f3dda2.jpg">]]></description>
+            <link>https://thegrid.ai/unveiled-moments/pricing/index.html</link>
+            <guid isPermaLink="false">b7a5f284-2374-400e-8497-daeb499e6014</guid>
+            <pubDate>Mon, 04 Jul 2016 18:46:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/unveiled-moments/capturing-moments-is-second-only-to-creating-them/index.html</link>
             <guid isPermaLink="false">a7940ddf-dd84-4e17-9eec-7b3154e3d1ac</guid>
             <pubDate>Mon, 04 Jul 2016 18:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pricing]]></title>
-            <description><![CDATA[<p></p>]]></description>
-            <link>https://thegrid.ai/unveiled-moments/pricing/index.html</link>
-            <guid isPermaLink="false">b7a5f284-2374-400e-8497-daeb499e6014</guid>
-            <pubDate>Mon, 04 Jul 2016 17:47:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
