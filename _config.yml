@@ -1,0 +1,28 @@
+name: Unveiled Moments
+favicon: null
+layout_spectrum: 0.9957101065665483
+typography_spectrum: 0.6284495654981583
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.20013576233759522
+  lightness: 0.5939313287381083
+  saturation: 0.393835315015167
+  rhythmicContrast: 0.90650863526389
+purpose: []
